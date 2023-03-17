@@ -1,2 +1,2 @@
 # Odin
-My Odin Project repository
+My Odin Project Repository
